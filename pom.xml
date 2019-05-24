@@ -11,6 +11,7 @@
 
   <modules>
     <module>JsonTools</module>
+    <module>SecurityTools</module>
   </modules>
 
   <properties>
