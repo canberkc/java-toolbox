@@ -1,4 +1,4 @@
-package com.canberkc.tools.xml;
+package com.canberkc.tools.xml.validation;
 
 import java.util.ArrayList;
 import java.util.List;
