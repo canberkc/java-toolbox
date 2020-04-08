@@ -12,6 +12,7 @@
   <modules>
     <module>JsonTools</module>
     <module>SecurityTools</module>
+    <module>XmlTools</module>
   </modules>
 
   <properties>
