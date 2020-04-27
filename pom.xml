@@ -13,6 +13,7 @@
     <module>JsonTools</module>
     <module>SecurityTools</module>
     <module>XmlTools</module>
+    <module>ExcelTools</module>
   </modules>
 
   <properties>
